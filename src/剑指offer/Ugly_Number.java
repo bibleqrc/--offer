@@ -41,13 +41,13 @@ public class Ugly_Number {
         return ugly;
     }
 	
-	public static void main(String[] args){
-		System.out.println(GetUglyNumber_Solution(1));
-		System.out.println(GetUglyNumber_Solution(2));
-		System.out.println(GetUglyNumber_Solution(3));
-		System.out.println(GetUglyNumber_Solution(4));
-		System.out.println(GetUglyNumber_Solution(5));
-		System.out.println(GetUglyNumber_Solution(6));
-	}
+//	public static void main(String[] args){
+//		System.out.println(GetUglyNumber_Solution(1));
+//		System.out.println(GetUglyNumber_Solution(2));
+//		System.out.println(GetUglyNumber_Solution(3));
+//		System.out.println(GetUglyNumber_Solution(4));
+//		System.out.println(GetUglyNumber_Solution(5));
+//		System.out.println(GetUglyNumber_Solution(6));
+//	}
 
 }
